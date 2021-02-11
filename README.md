@@ -1,2 +1,2 @@
 # first_project
- C:\User\ferna\Documents\first_project
+    Meu primeiro projeto utilizando as tecnologias HTML e CSS
