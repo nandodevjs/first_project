@@ -20,7 +20,7 @@ body {
 }
 
 #logo {
-    width: 180px;
+    width: 200px;
 }
 
 #menu a {
@@ -69,11 +69,15 @@ body {
 
 #button {
     color: white;
+    font-size: 18px;
     background-color: blueviolet;
+    width: 150px;
+    height: 45px;
     padding: 10px 20px;
     margin-top: 50px;
-    margin-left: 30px;
+    margin-left: 80px;
     border: 0;
     border-radius: 30px;
-    box-shadow: 2px 2px 5px #555;
+    box-shadow: 2px 2px 5px #555;text-decoration: none;
+    font-weight: 500;
 }
